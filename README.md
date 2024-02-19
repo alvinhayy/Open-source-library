@@ -28,5 +28,6 @@
 26. [Windows Event Log Analysis .pdf](Windows%20Event%20Log%20Analysis%20.pdf)
 
 **Catatan:**
-Silakan bagi semua orang bebas menambahkan file atau daftar isi dari repo buku di atas. Semua orang bebas menambahkan kontribusi mereka.
-Dan perlu di ketahui juga semua file buku pdf diatas di dapat dari segala sumber di internet.
+ - Silakan bagi semua orang bebas menambahkan file atau daftar isi dari repo buku di atas. Semua orang bebas menambahkan kontribusi mereka.
+   Dan perlu di ketahui juga semua file buku pdf diatas di dapat dari segala sumber di internet.
+ - Dan jika ingin menerjemahkan file di Google Translate tetapi terkendala jumlah halaman dan ukuran file bisa menggunakan Tools [PDF Cutter](https://github.com/alvinhayy/MageR-Scripts/blob/main/PDF%20Cutter.py)
